@@ -1,5 +1,5 @@
 
-# Unlabeled Data Improves Adversarial Robustness  
+# Improving the Efficiency of Self-Supervised Adversarial Training through Latent Clustering-Based Selection
   
 This repository contains code for Improving the Efficiency of Self-Supervised Adversarial Training through Latent Clustering-Based Selection
 
