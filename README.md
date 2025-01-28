@@ -3,7 +3,7 @@
   
 This repository contains code for Improving the Efficiency of Self-Supervised Adversarial Training through Latent Clustering-Based Selection
 
-## CIFAR-10 unlabeled data and trained models  
+## Links for 'extra' data 
 
 Below are links to files containing unlabeled data from the paper Unlabeled data improves adversarial robustness(https://github.com/yaircarmon/semisup-adv):
 
