@@ -11,8 +11,8 @@ Below are links to files containing unlabeled data from the paper Unlabeled data
 
 Below are links to files containing generated data from the paper Improving Robustness using Generated Data(https://github.com/google-deepmind/deepmindresearch/tree/master/adversarial_robustness)
 
-- [CIFAR-10 Generated Data)](https://storage.googleapis.com/dm-adversarial-robustness/cifar10_ddpm.npz)
-- [SVHN Generated Data)](https://storage.googleapis.com/dm-adversarial-robustness/svhn_ddpm.npz)
+- [CIFAR-10 Generated Data)(https://storage.googleapis.com/dm-adversarial-robustness/cifar10_ddpm.npz)]
+- [SVHN Generated Data)(https://storage.googleapis.com/dm-adversarial-robustness/svhn_ddpm.npz)]
 
 
 The code in this repo is based on code from the following sources:  
